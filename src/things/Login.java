@@ -1,3 +1,4 @@
+package things;
 import java.util.Scanner; // I use scanner because it's command line.
 
 public class Login {
@@ -17,5 +18,4 @@ public class Login {
 	        System.out.print("Username and password do not match");
 	    }
 	}
-	} 
 }

@@ -1,3 +1,4 @@
+package things;
 
 import java.util.Scanner;
 
